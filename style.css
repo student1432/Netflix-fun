@@ -1,0 +1,18 @@
+body
+{
+   background-color: black;
+}
+.colorclass
+{
+   color: white;
+}
+.colorclass-header
+{
+   color: yellow;
+}
+#imgnet
+{
+    width:60px;
+    height: 50px;
+    position:right;
+}
